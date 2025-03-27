@@ -12,7 +12,7 @@ Simple Bluetooth Car is a remote-controlled vehicle using an **Arduino Nano**, *
 - **HC-05 Bluetooth module**
 - **4 DC motors**
 - **4 Wheels**
-- **2 H-bridges** (motor drivers)
+- **2 H-bridges L293d** (motor drivers)
 - **Power source**
 - **Chassis**
 
