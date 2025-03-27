@@ -18,7 +18,7 @@ Simple Bluetooth Car is a remote-controlled vehicle using an **Arduino Nano**, *
 
 ## Media
 🎥 Watch the **real video** and see **images** of Simple Bluetooth Car here:  
-[📷 Facebook Link] (VOID)
+[📷 Facebook Link] (https://www.facebook.com/share/r/1EsMg6LzBd/)
 
 ## Getting Started
 1. **Wiring:** Follow the circuit diagram provided in the code comments to connect components correctly and the schematic provided.
