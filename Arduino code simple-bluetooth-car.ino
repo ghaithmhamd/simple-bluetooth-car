@@ -1,3 +1,4 @@
+project created by Ghaith Mhamdi in 29/03/2020
 #include <SoftwareSerial.h>
 SoftwareSerial Bot_BT(12, 11);  // RX, TX
 char BluetoothData;
